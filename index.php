@@ -116,6 +116,8 @@
 
         
     </table>
+ <hr>
+    <button class="btn_add"><a href="about.php">About</a></button>
     </div>
 </body>
 </html>
